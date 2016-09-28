@@ -1,0 +1,19 @@
+{
+  "name": "js-porj",
+  "version": "1.0.0",
+  "description": "An example module",
+  "author": "Sridhar Vemula",
+  "contributors": [{
+  "name": "Pragna Nalluri",
+  "email": "n.patavi@gmail.com"
+
+}],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "@angular/common": "2.0.1",
+    "@angular/platform-browser": "2.0.1",
+    "@angular/core": "2.0.1",
+    "@angular/http": "2.0.1",
+    "jquery": "3.1.1"
+  }
+}
